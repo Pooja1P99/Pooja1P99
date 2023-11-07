@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul2xsoMWnHckE4Uw49QeKoB9JDzCL2kJdMA&usqp=CAU">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja1p99&label=Profile%20views&color=0e75b6&style=flat" alt="pooja1p99" /> </p>
+<p align="left"> <img src="https://iconscout.com/lottie-animation/female-web-developer-7362399" alt="pooja1p99" /> </p>
 
 - 🔭 I’m currently working on **Frontend Development**
 
