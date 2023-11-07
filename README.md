@@ -1,10 +1,10 @@
 ![image](https://github.com/Pooja1P99/Pooja1P99/blob/main/github%20bg%202.png)
-<h1 align="center">Hi 👋, I'm Pooja Parve</h1>
+<h1 align="center">Hi 👋, I'm pooja parve</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
- 
-<img align="right" alt="coding" width="400" src="[ https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif](https://iconscout.com/lottie-animation/female-web-developer-7362400)">
+<img align="right" alt="coding" width="400" src="https://iconscout.com/lottie-animation/female-web-developer-7362400">
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja1p99&label=Profile%20views&color=0e75b6&style=flat" alt="pooja1p99" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja1p99&label=Profile%20views&color=0e75b6&style=flat" alt="pooja1p99" /> </p>
+
 - 🔭 I’m currently working on **Frontend Development**
 
 - 🌱 I’m currently learning **Frameworks**
@@ -31,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pooja1p99&show_icons=true&locale=en" alt="pooja1p99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pooja1p99&" alt="pooja1p99" /></p>
+
