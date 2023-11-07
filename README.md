@@ -1,7 +1,7 @@
 ![logo](https://github.com/Pooja1P99/Pooja1P99/blob/main/github%20bg%202.png)
 <h1 align="center">Hi 👋, I'm Pooja Parve</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeWXdZy9OGHu1SyPzi50iWnp-V6jexmz5DHCvwDFHp&s" alt="pooja1p99" /> </p>
+<p align="left"> <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeWXdZy9OGHu1SyPzi50iWnp-V6jexmz5DHCvwDFHp&s](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ffemale-programmer&psig=AOvVaw3Lcaoh67ycmwwDgoUfn071&ust=1699463159001000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICx8-CvsoIDFQAAAAAdAAAAABAF)" alt="pooja1p99" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja1p99&label=Profile%20views&color=0e75b6&style=flat" alt="pooja1p99" /> </p>
 - 🔭 I’m currently working on **Frontend Development**
