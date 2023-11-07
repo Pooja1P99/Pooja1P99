@@ -1,9 +1,9 @@
 ![image](https://github.com/Pooja1P99/Pooja1P99/blob/main/github%20bg%202.png)
 <h1 align="center">Hi 👋, I'm Pooja Parve</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
 <img align="right" alt="coding" width="400" src="https://www.exactlly.com/blog/wp-content/uploads/Employee-Portal-300x239.jpg">
 
- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja1p99&label=Profile%20views&color=0e75b6&style=flat" alt="pooja1p99" /> </p>
 - 🔭 I’m currently working on **Frontend Development**
 
